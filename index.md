@@ -1,15 +1,10 @@
 ---
-title: Welcome
+title: Добродошли
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Ово је мали вебсајт који документује разноразне **поступке** који не би требало да се забораве.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
-
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> Сам сајт је креиран помоћу генератора статичких сајтова Џекил, уз употребу бесплатног **Edition** шаблона који нуди [CloudCannon](https://cloudcannon.com/).
 
 ### Getting Started
 
